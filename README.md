@@ -61,8 +61,7 @@
 
 ## Buy Me a Coffee  
 <div align="center">
-<a href="https://www.buymeacoffee.com/rstgvre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a>  
-<a href="https://ko-fi.com/sdfgg"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Support me on Ko-Fi" /></a>  
+<a href="https://buymeacoffee.com/devilrocke8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a>  
 </div>  
 
 <br/>
