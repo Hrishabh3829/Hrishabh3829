@@ -1,8 +1,10 @@
 <head>
 <div align="center">
 <b>Welcome to My Digital Workspace! 👋</b>
-</div>
+  
+### </div>
 </head>
+
 <div align="center">
   <img style="width: 100%; height: auto;" src="https://paceglobalpk.net/wp-content/uploads/2023/07/code.gif" alt="Banner GIF" />
 </div>
@@ -69,10 +71,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishabh3829&layout=compact&theme=darcula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-### <b>Snake Animation</b>
-<img src="https://raw.githubusercontent.com/Hrishabh3829/Hrishabh3829/output/snake.yml" alt="Snake animation" />
-
+### <div align="left">
+<img src="https://raw.githubusercontent.com/Hrishabh3829/Hrishabh3829/output/snake.svg" alt="Snake animation" />
+</div>
 <br/>
+
 
 ### <b>Connect with Me</b> 
 
@@ -100,8 +103,6 @@
 ###
 
 ###  <b>Buy Me a Coffee</b>
-<div align="center">
+<div align="left">
 <a href="https://buymeacoffee.com/devilrocke8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a>  
-</div>  
-
-
+</div>
