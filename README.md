@@ -1,5 +1,5 @@
 <div align="center">
-<img src=""C:\Users\hrish\Downloads\gitbanner.gif"" align="center" style="width: 100%" />
+<img src="C:\Users\hrish\Downloads\gitbanner.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -118,14 +118,10 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Hrishabh3829" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+<ul style="list-style-type: none; margin: 0;">
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/rstgvre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/sdfgg"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
