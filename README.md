@@ -66,9 +66,9 @@
 <br/>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishabh3829&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br/>
-  <img src="https://streak-stats.demolab.com?user=Hrishabh3829&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishabh3829&layout=compact&theme=darcula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrishabh3829&theme=dark&bg_color=2A3B56&text_color=81A8D3&hide_border=false" height="150" alt="stats graph" /> <br/>
+ <img src="https://streak-stats.demolab.com?user=Hrishabh3829&theme=dark&hide_border=false" height="150" alt="streak graph" /> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishabh3829&layout=compact&theme=dark&bg_color=2A3B56&text_color=00CFFF&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ### <div align="left">
