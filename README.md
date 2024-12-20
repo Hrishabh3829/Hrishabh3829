@@ -1,8 +1,9 @@
+<head>Welcome to My Digital Workspace! 👋</head>
 <div align="center">
-<img src="https://your-image-host-link/gitbanner.gif" align="center" style="width: 100%" alt="GitHub Banner" />
-</div>  
+  <img style="width: 100%; height: auto;" src="https://paceglobalpk.net/wp-content/uploads/2023/07/code.gif" alt="Banner GIF" />
+</div>
 
-### <div align="center">Full-Stack Developer | DevOps Specialist</div>  
+### <div align="left"><b>Full-Stack Developer | DevOps Specialist</b></div>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Hrishabh3829/Hrishabh3829.github.io)  
 - 🌱 Currently exploring Docker, Kubernetes, and AWS to enhance cloud-native development and deployment expertise.  
@@ -11,61 +12,96 @@
 
 <br/>
 
-## My Skill Set  
+## <b>My Skill Set</b>  
 
 <table><tr><td valign="top" width="33%">
-### Frontend  
+<b>Frontend</b>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
+
 </td><td valign="top" width="33%">
-### Backend  
+<b>Backend</b> 
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
+
 </td><td valign="top" width="33%">
-### DevOps  
+
+
+<b>DevOps</b>  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
-</td></tr></table>
+
+</td></tr></table>  
 
 <br/>  
 
-## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/hrishabh-gupta-6a0445225" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Hrishabh3829" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://twitter.com/Hrishab60510648" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.youtube.com/@Developer-x1n" target="_blank">
-<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>  
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrishabh3829&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br/>
+  <img src="https://streak-stats.demolab.com?user=Hrishabh3829&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishabh3829&layout=compact&theme=darcula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+### <b>Snake Animation</b>
+<img src="https://raw.githubusercontent.com/Hrishabh3829/Hrishabh3829/output/snake.svg" alt="Snake animation" />
 
 <br/>
 
-## Buy Me a Coffee  
+###
+
+<img align="right" src="https://profile-counter.glitch.me/Hrishabh3829/count.svg?"  />
+
+### <b>Connect with Me</b> 
+
+<div align="left">
+  <a href="https://linkedin.com/in/hrishabh-gupta-6a0445225" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Hrishab60510648" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Developer-x1n" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=hrishabhkumar567@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/Hrishabh2200032748" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vae5Pod5K3zZjL4FpG0H " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+### <b>Buy Me a Coffee</b>
 <div align="center">
-<a href="https://www.buymeacoffee.com/rstgvre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a>  
-<a href="https://ko-fi.com/sdfgg"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Support me on Ko-Fi" /></a>  
+<a href="https://buymeacoffee.com/devilrocke8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a>  
 </div>  
 
-<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hrishabh3829&show_icons=true&count_private=true&hide_border=true" /></div>  
