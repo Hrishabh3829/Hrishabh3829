@@ -1,5 +1,5 @@
 <div align="center">
-<img src="file:///C:/Users/hrish/Downloads/gitbanner.gif" align="center" style="width: 100%" />
+<img src=""C:\Users\hrish\Downloads\gitbanner.gif"" align="center" style="width: 100%" />
 </div>  
   
 
@@ -102,7 +102,7 @@
 
 
 ## Recent Blog Posts  
-![Developer](file:///C:/Users/hrish/Downloads/gitbanner.gif)  
+![Developer]("C:\Users\hrish\Downloads\gitbanner.gif")  
   
 
 <br/>  
