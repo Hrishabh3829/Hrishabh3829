@@ -66,7 +66,7 @@
 </div>
 
 ### <b>Snake Animation</b>
-<img src="https://raw.githubusercontent.com/Hrishabh3829/Hrishabh3829/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hrishabh3829/Hrishabh3829/output/snake.yml" alt="Snake animation" />
 
 <br/>
 
