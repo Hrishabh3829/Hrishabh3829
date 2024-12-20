@@ -1,4 +1,8 @@
-<head>Welcome to My Digital Workspace! 👋</head>
+<head>
+<div align="center">
+<b>Welcome to My Digital Workspace! 👋</b>
+</div>
+</head>
 <div align="center">
   <img style="width: 100%; height: auto;" src="https://paceglobalpk.net/wp-content/uploads/2023/07/code.gif" alt="Banner GIF" />
 </div>
@@ -70,10 +74,6 @@
 
 <br/>
 
-###
-
-<img align="right" src="https://profile-counter.glitch.me/Hrishabh3829/count.svg?"  />
-
 ### <b>Connect with Me</b> 
 
 <div align="left">
@@ -99,7 +99,7 @@
 
 ###
 
-### <b>Buy Me a Coffee</b>
+###  <b>Buy Me a Coffee</b>
 <div align="center">
 <a href="https://buymeacoffee.com/devilrocke8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a>  
 </div>  
