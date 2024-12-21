@@ -101,6 +101,9 @@
   <a href="https://www.leetcode.com/Hrishabh_G" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="Hrishabh_G" />
   </a>
+  <a href="https://www.codechef.com/users/hrishabh_3829" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" width="110" alt="hrishabh_3829" />
+  </a>
 </div>
 
 ###
