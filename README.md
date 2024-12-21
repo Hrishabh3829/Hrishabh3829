@@ -104,6 +104,9 @@
   <a href="https://www.codechef.com/users/hrishabh_3829" target="_blank">
     <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" width="110" alt="hrishabh_3829" />
   </a>
+<!--   <a href="https://x.com/Hrishab60510648" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/900px-X_icon_2.svg.png?20231002152819" height="50" width="40" alt="Hrishab60510648"/>
+  </a> -->
 </div>
 
 ###
