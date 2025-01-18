@@ -11,7 +11,7 @@
 
 ### <div align="left"><b>Full-Stack Developer | DevOps Specialist</b></div>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Hrishabh3829/Hrishabh3829.github.io)  
+- 🔭 I’m currently working on [ChatApp](https://github.com/Hrishabh3829/Texts)  
 - 🌱 Currently exploring Docker, Kubernetes, and AWS to enhance cloud-native development and deployment expertise.  
 - ❓ Ask me about anything related to the MERN stack and related technologies  
 - ⚡ Quirk: I find joy in optimizing code just as much as playing football.  
