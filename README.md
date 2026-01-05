@@ -1,4 +1,4 @@
-<h2 align="center">It works on my machine.
+<h2 align="center">Keep it simple
 </h2>
 <h4 align="center">Full-Stack Developer | DevOps Specialist</h4>
 
