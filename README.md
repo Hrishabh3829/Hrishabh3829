@@ -1,22 +1,23 @@
-<head>
-<div align="center">
-<b>Welcome to My Digital Workspace! 👋</b>
-  
-### </div>
-</head>
+<h2 align="center">It works on my machine.
+</h2>
+<h4 align="center">Full-Stack Developer | DevOps Specialist</h4>
 
-<div align="center">
-  <img style="width: 100%; height: auto;" src="https://paceglobalpk.net/wp-content/uploads/2023/07/code.gif" alt="Banner GIF" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%" />
+</p>
 
-### <div align="left"><b>Full-Stack Developer | DevOps Specialist</b></div>
 
-- 🔭 I’m currently working on [ChatApp](https://github.com/Hrishabh3829/Texts)  
-- 🌱 Currently exploring Docker, Kubernetes, and AWS to enhance cloud-native development and deployment expertise.  
-- ❓ Ask me about anything related to the MERN stack and related technologies  
-- ⚡ Quirk: I find joy in optimizing code just as much as playing football.  
+
+-  I’m currently working on [ChatApp](https://github.com/Hrishabh3829/Texts)  
+-  Currently exploring Docker, Kubernetes, and AWS to enhance cloud-native development and deployment expertise.  
+-  Ask me about anything related to the MERN stack and related technologies  
+-  Quirk: I find joy in optimizing code just as much as playing football.  
 
 <br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
+
 
 ## <b>My Skill Set</b>  
 
@@ -65,17 +66,25 @@
 
 <br/>  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrishabh3829&theme=dark&bg_color=2A3B56&text_color=81A8D3&hide_border=false" height="150" alt="stats graph" /> <br/>
- <img src="https://streak-stats.demolab.com?user=Hrishabh3829&theme=dark&hide_border=false" height="150" alt="streak graph" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishabh3829&layout=compact&theme=dark&bg_color=2A3B56&text_color=00CFFF&hide_border=false" height="150" alt="languages graph" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
+
+
+ <br/>
+ <p align="center">
+ <img src="https://streak-stats.demolab.com?user=Hrishabh3829&theme=dark&hide_border=false" height="150" alt="streak graph" /> 
+ </p>
+ 
 </div>
 
-### <div align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Hrishabh3829/Hrishabh3829/output/snake.svg" alt="Snake animation" />
-</div>
-<br/>
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
 
 ### <b>Connect with Me</b> 
 
