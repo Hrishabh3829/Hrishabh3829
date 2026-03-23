@@ -1,4 +1,4 @@
-<h2 align="center">Keep it simple.
+<h2 align="center">Hello World 👋 I'm Hrishabh Gupta
 </h2>
 <h4 align="center">Full-Stack Developer | DevOps Specialist</h4>
 
@@ -72,6 +72,11 @@
 
 
  <br/>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabh3829&layout=compact&theme=vue" />
+</p>
+
  <p align="center">
  <img src="https://streak-stats.demolab.com?user=Hrishabh3829&theme=dark&hide_border=false" height="150" alt="streak graph" /> 
  </p>
