@@ -11,12 +11,10 @@
 -  I’m currently working on [ChatApp](https://github.com/Hrishabh3829/Texts)  
 -  Currently exploring Docker, Kubernetes, and AWS to enhance cloud-native development and deployment expertise.  
 -  Ask me about anything related to the MERN stack and related technologies  
--  Quirk: I find joy in optimizing code just as much as playing football.  
+-  I find joy in optimizing code just as much as playing football.  
 
 <br/>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</p>
+
 
 
 ## <b>My Skill Set</b>  
@@ -80,9 +78,6 @@
 
 <br/>  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</p>
 
 
  <br/>
@@ -101,9 +96,21 @@
   <img src="https://raw.githubusercontent.com/hrishabh3829/hrishabh3829/main/gh-space-shooter.webp" />
 </p>
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hrishabh3829/hrishabh3829/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="90%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hrishabh3829/hrishabh3829/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/hrishabh3829/hrishabh3829/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hrishabh3829/hrishabh3829/main/profile-summary-card-output/github_dark/3-stats.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/hrishabh3829/hrishabh3829/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="45%" />
+</p>
+
 
 ### <b>Connect with Me</b> 
 
