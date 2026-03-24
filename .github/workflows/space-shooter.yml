@@ -2,7 +2,7 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,11 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
 
       - uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.GH_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'gh-space-shooter.webp'
           strategy: 'random'
