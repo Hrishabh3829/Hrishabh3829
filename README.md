@@ -82,9 +82,9 @@
 
  <br/>
  
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrishabh3829&theme=graywhite&show_icons=true" />
-</p>
+</p> -->
 
  <p align="center">
  <img src="https://streak-stats.demolab.com?user=Hrishabh3829&theme=dark&hide_border=false" height="150" alt="streak graph" /> 
