@@ -19,6 +19,7 @@
 
 ## <b>My Skill Set</b>  
 
+<div align="center">
 <table><tr><td valign="top" width="33%">
 <b>Frontend</b>
 <div align="center">  
@@ -75,6 +76,7 @@
 </div>
 
 </td></tr></table>  
+</div>
 
 <br/>  
 
@@ -112,41 +114,33 @@
 </p>
 
 
-### <b>Connect with Me</b> 
+## <b>Connect with Me</b>
 
-<div align="left">
-  <a href="https://linkedin.com/in/hrishabh-gupta-6a0445225" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Hrishab60510648" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Developer-x1n" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=hrishabhkumar567@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Hrishabh2200032748" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Vae5Pod5K3zZjL4FpG0H " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.leetcode.com/Hrishabh_G" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="Hrishabh_G" />
-  </a>
-  <a href="https://www.codechef.com/users/hrishabh_3829" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="38" width="110" alt="hrishabh_3829" />
-  </a>
-<!--   <a href="https://x.com/Hrishab60510648" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/900px-X_icon_2.svg.png?20231002152819" height="50" width="40" alt="Hrishab60510648"/>
-  </a> -->
-</div>
+<p>
 
-###
+<a href="https://linkedin.com/in/hrishabh-gupta-6a0445225" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40"/>
+</a>
+<a href="https://x.com/Hrishab60510648" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40"/>
+</a>
+<a href="https://www.youtube.com/@Developer-x1n" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="40"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=hrishabhkumar567@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40"/>
+</a>
+<a href="https://t.me/Hrishabh2200032748" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40"/>
+</a>
+<a href="https://whatsapp.com/channel/0029Vae5Pod5K3zZjL4FpG0H" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40"/>
+</a>
+<a href="https://www.leetcode.com/Hrishabh_G" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
+</a>
+<a href="https://www.codechef.com/users/hrishabh_3829" target="_blank">
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"/>
+</a>
 
-###  <b>Buy Me a Coffee</b>
-<div align="left">
-<a href="https://buymeacoffee.com/devilrocke8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a>  
-</div>
+</p>
