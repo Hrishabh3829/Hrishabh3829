@@ -119,26 +119,33 @@
 <p>
 
 <a href="https://linkedin.com/in/hrishabh-gupta-6a0445225" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" style="margin-right:15px"/>
 </a>
+
 <a href="https://x.com/Hrishab60510648" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" style="margin-right:15px"/>
 </a>
+
 <a href="https://www.youtube.com/@Developer-x1n" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="40" style="margin-right:15px"/>
 </a>
+
 <a href="https://mail.google.com/mail/?view=cm&to=hrishabhkumar567@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" style="margin-right:15px"/>
 </a>
+
 <a href="https://t.me/Hrishabh2200032748" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" style="margin-right:15px"/>
 </a>
+
 <a href="https://whatsapp.com/channel/0029Vae5Pod5K3zZjL4FpG0H" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" style="margin-right:15px"/>
 </a>
+
 <a href="https://www.leetcode.com/Hrishabh_G" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" style="margin-right:15px"/>
 </a>
+
 <a href="https://www.codechef.com/users/hrishabh_3829" target="_blank">
   <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40"/>
 </a>
